@@ -1,0 +1,12 @@
+**/*.pyc
+
+**/*.jpg
+**/*.png
+**/*.jpeg
+**/*.bmp
+
+# shapefile
+**/china/
+**/world/
+
+**/video/
