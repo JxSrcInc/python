@@ -1,3 +1,4 @@
+__pycache__/
 **/*.pyc
 
 **/*.jpg
@@ -9,4 +10,5 @@
 **/china/
 **/world/
 
-**/video/
+image/video/
+image/picture/
